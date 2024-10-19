@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'add_password_screen.dart'; // Yeni sayfayı import etmeyi unutma
+import 'add_password_screen.dart'; //
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});
